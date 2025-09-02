@@ -1,1 +1,1 @@
-print("This is test run in GitHub");
+print("Change the location");
